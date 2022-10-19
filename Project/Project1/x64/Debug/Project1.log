@@ -1,0 +1,61 @@
+﻿  Source.cpp
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(27,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(38,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(49,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(61,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(72,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(83,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(94,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(105,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(116,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(127,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(138,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(149,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(160,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(171,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(182,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(193,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(204,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(215,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(226,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(237,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(248,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(259,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(270,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(281,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(292,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(303,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(314,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(325,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(336,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(347,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(358,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(369,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(380,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(391,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(402,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(413,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(424,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(435,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(446,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(457,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(468,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(479,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(938,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(895,6): warning C4101: 'RecentScore': unreferenced local variable
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(903,8): warning C4101: 'back': unreferenced local variable
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1066,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1070,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1075,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1081,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1088,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1096,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1105,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1115,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1126,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1138,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1151,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1165,8): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1195,13): warning C4101: 'input': unreferenced local variable
+C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\Project1\Source.cpp(1195,20): warning C4101: 'again': unreferenced local variable
+  Project1.vcxproj -> C:\Users\hp\Downloads\final project-20221019T101440Z-001\file\Project\x64\Debug\Project1.exe
